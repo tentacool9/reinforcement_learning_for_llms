@@ -18,7 +18,10 @@ like GRPO on the CartPole environment.
 ### 1. Tic-Tac-Toe - Two agents play against one another
 - Q-Learning
 - Monte Carlo Learning
-![Tic Tac Toe](tie.png)
+<p align="left">
+  <img src="cartpole.png" alt="Reinforcement Learning Banner" width="20%">
+</p>
+
 ### 2. CartPole - Learning to balance a pole
 - Policy Gradient (REINFORCE)
 - Actor-Critic
