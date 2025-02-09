@@ -6,11 +6,11 @@ If you want to understand something you need to do it yourself.
 So in this notebook I build up RL from Q-learning on Tic-Tac-Toe to deepseek GRPO on Cartpole
 
 *Table Of Contents:*
-1. Tic Tac Toe - Two agents play tic tac toe against one another
-  a. Q-Learning
-  b. Monte Carlo Learning
-2. Cartpole
-  a. Policy Gradient - REINFORCE
-  b. Actor Critic
-  c. PPO
-  d. GRPO
+-Tic Tac Toe - Two agents play tic tac toe against one another
+--Q-Learning
+--Monte Carlo Learning
+-Cartpole
+--Policy Gradient - REINFORCE
+--Actor Critic
+--PPO
+--GRPO
