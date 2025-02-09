@@ -27,7 +27,4 @@ like GRPO on the CartPole environment.
 - Actor-Critic
 - Proximal Policy Optimization (PPO)
 - Generalized Reinforcement Policy Optimization (GRPO)
-
-Each section introduces the RL algorithm, provides a mathematical explanation, 
-and implements it in code.
 """
