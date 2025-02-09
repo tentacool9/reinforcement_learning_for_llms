@@ -7,4 +7,10 @@ So in this notebook I build up RL from Q-learning on Tic-Tac-Toe to deepseek GRP
 
 *Table Of Contents:*
 1. Tic Tac Toe - Two agents play tic tac toe against one another
-2. 
+  a. Q-Learning
+  b. Monte Carlo Learning
+2. Cartpole
+  a. Policy Gradient - REINFORCE
+  b. Actor Critic
+  c. PPO
+  d. GRPO
