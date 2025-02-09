@@ -19,7 +19,7 @@ like GRPO on the CartPole environment.
 - Q-Learning
 - Monte Carlo Learning
 <p align="left">
-  <img src="cartpole.png" alt="Reinforcement Learning Banner" width="20%">
+  <img src="tie.png" alt="Reinforcement Learning Banner" width="30%">
 </p>
 
 ### 2. CartPole - Learning to balance a pole
