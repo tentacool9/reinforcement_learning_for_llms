@@ -1,5 +1,7 @@
 ![Reinforcement Learning Banner](cartpole.png)
-
+<p align="center">
+  <img src="cartpole.png" alt="Reinforcement Learning Banner" width="80%">
+</p>
 # Reinforcement Learning for LLMs
 
 Since running DeepSeek on my own PC is impractical, I decided to learn the 
