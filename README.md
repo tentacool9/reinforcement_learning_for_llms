@@ -1,6 +1,6 @@
-![Reinforcement Learning Banner](cartpole.png)
+
 <p align="center">
-  <img src="cartpole.png" alt="Reinforcement Learning Banner" width="80%">
+  <img src="cartpole.png" alt="Reinforcement Learning Banner" width="50%">
 </p>
 # Reinforcement Learning for LLMs
 
