@@ -2,6 +2,7 @@
 <p align="center">
   <img src="cartpole.png" alt="Reinforcement Learning Banner" width="50%">
 </p>
+
 # Reinforcement Learning for LLMs
 
 Since running DeepSeek on my own PC is impractical, I decided to learn the 
@@ -17,7 +18,7 @@ like GRPO on the CartPole environment.
 ### 1. Tic-Tac-Toe - Two agents play against one another
 - Q-Learning
 - Monte Carlo Learning
-
+![Tic Tac Toe](tie.png)
 ### 2. CartPole - Learning to balance a pole
 - Policy Gradient (REINFORCE)
 - Actor-Critic
