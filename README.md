@@ -1,16 +1,26 @@
-Reinforcement Learning For LLMS
+"""
+Reinforcement Learning for LLMs
 
-Since I can't recreate deepseek on my own PC I decided to learn the reinforcement learning mathematics and implement them myself using a different task than language modeling.
-If you want to understand something you need to do it yourself.
+Since running DeepSeek on my own PC is impractical, I decided to learn the 
+mathematics of reinforcement learning (RL) and implement them from scratch 
+on simpler tasks. The best way to understand something is to build it yourself.
 
-So in this notebook I build up RL from Q-learning on Tic-Tac-Toe to deepseek GRPO on Cartpole
+This notebook constructs RL concepts step by step, starting from Q-learning 
+on Tic-Tac-Toe and progressing to advanced policy optimization methods 
+like GRPO on the CartPole environment.
 
-*Table Of Contents:*
--Tic Tac Toe - Two agents play tic tac toe against one another
---Q-Learning
---Monte Carlo Learning
--Cartpole
---Policy Gradient - REINFORCE
---Actor Critic
---PPO
---GRPO
+# Table of Contents
+
+## 1. Tic-Tac-Toe - Two agents play against one another
+- Q-Learning
+- Monte Carlo Learning
+
+## 2. CartPole - Learning to balance a pole
+- Policy Gradient (REINFORCE)
+- Actor-Critic
+- Proximal Policy Optimization (PPO)
+- Generalized Reinforcement Policy Optimization (GRPO)
+
+Each section introduces the RL algorithm, provides a mathematical explanation, 
+and implements it in code.
+"""
